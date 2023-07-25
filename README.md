@@ -6,3 +6,5 @@ Eu sou a Camila, mas podem me chamar de Camis, sou desenvolvedora júnior a algu
 - 💬 Pergunte-me sobre CSS e HTML,
 - 🤔 Gostaria de colaborar mais em pequenos projetos, para adquirir mais habilidades e conhecimento, 
 - ⚡ Fun fact: Sou crossfiteira 😄 🏋️‍♀️
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cami-lima&show_icons=true&theme=radical)
