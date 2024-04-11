@@ -8,3 +8,4 @@ Sou desenvolvedora júnior a quase 1 ano, fui bancária por 12 anos e fiz transi
 - ⚡ Fun fact: Sou crossfiteira 😄 🏋️‍♀️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cami-lima&show_icons=true&theme=radical)
+
