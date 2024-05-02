@@ -1,6 +1,6 @@
 ### Podem me chamar de Camis 👋
 
-Sou desenvolvedora júnior a quase 1 ano, fui bancária por 12 anos e fiz transição de carreira 🤓
+Sou desenvolvedora júnior a 1 ano, fui bancária por 12 anos e fiz transição de carreira 🤓
 
 - 🌱 Desenvolvendo front-end, React atualmente,
 - 💬 Pergunte-me sobre CSS e HTML,
